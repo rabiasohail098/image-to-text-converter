@@ -2,3 +2,4 @@ pytesseract
 pillow
 opencv-python
 numpy
+tesseract-ocr
